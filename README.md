@@ -1,5 +1,3 @@
-# excel_project_for_Data_Analyst
-
 Bike Buyers Dataset (Google Sheets Dashboard)
 
 This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used to build the dashboard in Google Sheets. There are some NA (Null / Empty) values injected in the dataset. Use this dataset for Data Cleaning, Exploration, and Visualization.
