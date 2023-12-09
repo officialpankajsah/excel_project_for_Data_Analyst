@@ -40,6 +40,3 @@ Question: How does the distribution of bike purchases differ when considering bo
 Question: Use a heatmap to visualize the correlation matrix between numeric variables. What variables show a strong correlation, and how might this influence purchasing behavior?
 10. Pair Plot (Subset of Variables): (This is optional in Google Sheets)
 Question: Create a pair plot for a subset of variables (e.g., Income, Age, Children). Are there clear relationships between these variables, and how might they impact bike purchases?
-The above 10 plots are suggestions that you can build, first, build the individual charts and then create a functional dashboard in a new sheet.
-
-Once you complete the task submit the public URL of your dashboard in the Google sheet mentioned on the Task page. 
